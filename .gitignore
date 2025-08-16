@@ -1,5 +1,8 @@
 composer.phar
 /vendor/*
+/vendor/*.php 
+/vendor/*.json 
+/vendor/*.lock 
 /vendor/
 node_modules/
 npm-debug.log
